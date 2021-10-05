@@ -39,4 +39,6 @@ in9 = input("Bob speaks or Mike speaks")
 if in9 == "Bob":
 	print("A mist appears with a green colour to it, they have no idea what it is but they begin to lose focus and consciousness. A minute of being unconscious they find that Colonel Sanders clothes were on the commander robot, as for Dr Maddison she has emerged from the dark with a half-human half-robot body. They have finally reached the truth, not their goal. Dr Maddison was the reason of this war. THE END?")
 else:
-	print("A mist appears with a green colour to it, they have no idea what it is but they begin to lose focus and consciousness. A minute of being unconscious they find that Colonel Sanders clothes were on the commander robot, as for Dr Maddison she has emerged from the dark with a half-human half-robot body. They have finally reached the truth, not their goal. Dr Maddison was the reason of this war. THE END?")			
+	print("A mist appears with a green colour to it, they have no idea what it is but they begin to lose focus and consciousness. A minute of being unconscious they find that Colonel Sanders clothes were on the commander robot, as for Dr Maddison she has emerged from the dark with a half-human half-robot body. They have finally reached the truth, not their goal. Dr Maddison was the reason of this war. THE END?")
+
+#this is a test for the github
